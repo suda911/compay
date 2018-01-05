@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Compay</string>
+    <string name="api_key">9492bc092aee51eac7a22d53e03ef2c2</string>
+    <string name="server">http://api.openweathermap.org/data/</string>
+    <string name="file">cites.json</string>
+    <string name="utf">UTF-8</string>
+</resources>
